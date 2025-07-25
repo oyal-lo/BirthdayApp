@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		2BE705162E33EFA300B70D8A /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE705152E33EFA300B70D8A /* Friend.swift */; };
+		2BE705182E34003900B70D8A /* BirthdayAppFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE705172E34003900B70D8A /* BirthdayAppFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2BE705072E33EF4B00B70D8A /* BirthdayApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BirthdayApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BE705152E33EFA300B70D8A /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
+		2BE705172E34003900B70D8A /* BirthdayAppFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayAppFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,6 +39,7 @@
 		2BE704FE2E33EF4B00B70D8A = {
 			isa = PBXGroup;
 			children = (
+				2BE705172E34003900B70D8A /* BirthdayAppFile.swift */,
 				2BE705152E33EFA300B70D8A /* Friend.swift */,
 				2BE705092E33EF4B00B70D8A /* BirthdayApp */,
 				2BE705082E33EF4B00B70D8A /* Products */,
@@ -125,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BE705182E34003900B70D8A /* BirthdayAppFile.swift in Sources */,
 				2BE705162E33EFA300B70D8A /* Friend.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
